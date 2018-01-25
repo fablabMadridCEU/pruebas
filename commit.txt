@@ -1,0 +1,35 @@
+commit 9b3f48074ff3bdcb5412ee3afde881979486d074
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 19:25:13 2018 +0100
+
+    commit 05 añadido
+
+commit 7e8c94a0bc868e9abd1f66a6daab3b5fe57e9990
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 19:08:04 2018 +0100
+
+    commit 04 añadido
+
+commit 658dc4f3c1e30d358340323f6e8d7db157c29681
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 19:05:24 2018 +0100
+
+    agregadas redes sociales
+
+commit 05c28e571de38b89d0dc98e8a3a081654e88ee5e
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 19:02:33 2018 +0100
+
+    perfil web añadido
+
+commit f8f3caddfaba756824c56bfeb87b45f37a8569cb
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 18:58:56 2018 +0100
+
+    commit 1 cambio nombre
+
+commit 5bf681c4f2505b40de687dac091bc07e644dcb68
+Author: epifanio lorenzo <epifaniolcueva@gmail.com>
+Date:   Mon Jan 22 18:50:26 2018 +0100
+
+    estos son los archivos base del proyecto
